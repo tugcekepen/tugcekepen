@@ -12,4 +12,4 @@
 
 ![](https://komarev.com/ghpvc/?username=tugcekepen&color=ff69b4&style=for-the-badge)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tugcekepen&layout=compact&count_private=true&theme=gruvbox" />
+<details><summary>Most Used Languages</summary><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tugcekepen&layout=compact&count_private=true&theme=gruvbox" /></details>
