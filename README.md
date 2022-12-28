@@ -1,5 +1,9 @@
 ![Coding](https://media1.giphy.com/media/QuDgW7dXQfCZiWVXD4/giphy.gif?cid=ecf05e47rdlhk3pnvb37xeaqszmdyt7jtv1f4y6amyyals8j&rid=giphy.gif&ct=s)
 
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Visitor;I'm+Tugce+Kepen&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=30">
+</p>
+
 👋 Hi, I’m @tugcekepen . I'm Software Engineering student at Samsun University.💞️ <br/>
 📫 How to reach me? kepentugce@gmail.com <br/>
 
