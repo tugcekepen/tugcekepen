@@ -1,6 +1,7 @@
+<p align="center">
 ![Coding](https://media1.giphy.com/media/QuDgW7dXQfCZiWVXD4/giphy.gif?cid=ecf05e47rdlhk3pnvb37xeaqszmdyt7jtv1f4y6amyyals8j&rid=giphy.gif&ct=s)
-
-<p align="left">
+</p>
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Visitor;I'm+Tugce+Kepen&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=30">
 </p>
 
