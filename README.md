@@ -7,7 +7,7 @@
 👋 Hi, I’m @tugcekepen . I'm Software Engineering student at Samsun University.💞️ <br/>
 📫 How to reach me? kepentugce@gmail.com <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <a href="https://twitter.com/tugcekepen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tugcekepen" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tugcekepen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tugcekepen" height="30" width="40" /></a>
