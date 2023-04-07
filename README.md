@@ -11,9 +11,11 @@
 </p>
 
 <p align="center">
+```
   👋 Hi, I’m @tugcekepen . I'm Software Engineering student at Samsun University.💞️<br/>
-  📫 How to reach me? kepentugce@gmail.com<br/>
-</p>
+  📫 How to reach me? kepentugce@gmail.com
+```
+</p><br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
@@ -31,8 +33,4 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,java,cs,dotnet,dart,flutter,html,css" />
   </a>
-</p>
-
-<p align = "center">
-	<img src = "https://github.com/tugcekepen/tugcekepen/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
