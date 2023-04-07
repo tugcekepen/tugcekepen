@@ -1,5 +1,7 @@
 <p align="center">
-  ![Coding](https://media1.giphy.com/media/QuDgW7dXQfCZiWVXD4/giphy.gif?cid=ecf05e47rdlhk3pnvb37xeaqszmdyt7jtv1f4y6amyyals8j&rid=giphy.gif&ct=s)
+  <a href="https://skillicons.dev">
+    <img src="https://media1.giphy.com/media/QuDgW7dXQfCZiWVXD4/giphy.gif?cid=ecf05e47rdlhk3pnvb37xeaqszmdyt7jtv1f4y6amyyals8j&rid=giphy.gif&ct=s" />
+  </a>
 </p>
 
 <p align="center">
@@ -7,8 +9,8 @@
 </p>
 
 <p align="center">
-  <p>👋 Hi, I’m @tugcekepen . I'm Software Engineering student at Samsun University.💞️</p> <br/>
-  <p>📫 How to reach me? kepentugce@gmail.com</p> <br/>
+  👋 Hi, I’m @tugcekepen . I'm Software Engineering student at Samsun University.💞️<br/>
+  📫 How to reach me? kepentugce@gmail.com<br/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
