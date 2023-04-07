@@ -10,12 +10,11 @@
   <img src="https://komarev.com/ghpvc/?username=tugcekepen&color=ff69b4&style=for-the-badge">
 </p>
 
-<p align="center">
 ```
   👋 Hi, I’m @tugcekepen . I'm Software Engineering student at Samsun University.💞️<br/>
   📫 How to reach me? kepentugce@gmail.com
 ```
-</p><br/>
+<br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
