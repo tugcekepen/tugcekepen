@@ -11,7 +11,7 @@
 </p>
 
 ```
-  👋 Hi, I’m @tugcekepen . I'm Software Engineering student at Samsun University.💞️
+  👋 Hi, I’m @tugcekepen . I graduated from Samsun University(Türkiye), Software Engineering.💞️
   📫 How to reach me? kepentugce@gmail.com
 ```
 
